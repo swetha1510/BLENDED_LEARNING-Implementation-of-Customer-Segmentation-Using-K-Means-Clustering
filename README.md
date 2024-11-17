@@ -104,7 +104,6 @@ plt.ylabel('Spending Score (1-100)')
 plt.legend(title='Cluster')
 plt.show()
 ```
-
 ## Output:
 ![image](https://github.com/user-attachments/assets/85cc1b79-bf94-4de0-bbb6-1f492eb24a5f)
 ![image](https://github.com/user-attachments/assets/dd44a092-30e4-46e7-a132-fe06278b0158)
